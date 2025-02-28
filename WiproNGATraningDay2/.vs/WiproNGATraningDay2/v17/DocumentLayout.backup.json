@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stark\\source\\repos\\WiproNGATraningDay2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACE15E0-3680-42E3-BC97-3EC54AEF4639}|WiproNGATraningDay2\\WiproNGATraningDay2.csproj|c:\\users\\stark\\source\\repos\\wiprongatraningday2\\wiprongatraningday2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACE15E0-3680-42E3-BC97-3EC54AEF4639}|WiproNGATraningDay2\\WiproNGATraningDay2.csproj|solutionrelative:wiprongatraningday2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stark\\source\\repos\\WiproNGATraningDay2\\WiproNGATraningDay2\\Program.cs",
+              "RelativeDocumentMoniker": "WiproNGATraningDay2\\Program.cs",
+              "ToolTip": "C:\\Users\\stark\\source\\repos\\WiproNGATraningDay2\\WiproNGATraningDay2\\Program.cs",
+              "RelativeToolTip": "WiproNGATraningDay2\\Program.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAIwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:45:23.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

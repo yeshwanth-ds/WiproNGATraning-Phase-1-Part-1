@@ -1,0 +1,14 @@
+C:\Users\stark\source\repos\WiproNGATraningDay7\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stark\source\repos\WiproNGATraningDay7\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.AssemblyInfoInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay7\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.AssemblyInfo.cs
+C:\Users\stark\source\repos\WiproNGATraningDay7\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay7\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.exe
+C:\Users\stark\source\repos\WiproNGATraningDay7\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.deps.json
+C:\Users\stark\source\repos\WiproNGATraningDay7\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.runtimeconfig.json
+C:\Users\stark\source\repos\WiproNGATraningDay7\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.dll
+C:\Users\stark\source\repos\WiproNGATraningDay7\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay7\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.dll
+C:\Users\stark\source\repos\WiproNGATraningDay7\MulticastDelegate\obj\Debug\net8.0\refint\MulticastDelegate.dll
+C:\Users\stark\source\repos\WiproNGATraningDay7\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay7\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.genruntimeconfig.cache
+C:\Users\stark\source\repos\WiproNGATraningDay7\MulticastDelegate\obj\Debug\net8.0\ref\MulticastDelegate.dll

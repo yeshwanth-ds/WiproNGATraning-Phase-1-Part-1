@@ -1,0 +1,14 @@
+C:\Users\stark\source\repos\WiproNGATraningDay4\HierarchicalInheritance\bin\Debug\net8.0\HierarchicalInheritance.exe
+C:\Users\stark\source\repos\WiproNGATraningDay4\HierarchicalInheritance\bin\Debug\net8.0\HierarchicalInheritance.deps.json
+C:\Users\stark\source\repos\WiproNGATraningDay4\HierarchicalInheritance\bin\Debug\net8.0\HierarchicalInheritance.runtimeconfig.json
+C:\Users\stark\source\repos\WiproNGATraningDay4\HierarchicalInheritance\bin\Debug\net8.0\HierarchicalInheritance.dll
+C:\Users\stark\source\repos\WiproNGATraningDay4\HierarchicalInheritance\bin\Debug\net8.0\HierarchicalInheritance.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay4\HierarchicalInheritance\obj\Debug\net8.0\HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stark\source\repos\WiproNGATraningDay4\HierarchicalInheritance\obj\Debug\net8.0\HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay4\HierarchicalInheritance\obj\Debug\net8.0\HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\stark\source\repos\WiproNGATraningDay4\HierarchicalInheritance\obj\Debug\net8.0\HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay4\HierarchicalInheritance\obj\Debug\net8.0\HierarchicalInheritance.dll
+C:\Users\stark\source\repos\WiproNGATraningDay4\HierarchicalInheritance\obj\Debug\net8.0\refint\HierarchicalInheritance.dll
+C:\Users\stark\source\repos\WiproNGATraningDay4\HierarchicalInheritance\obj\Debug\net8.0\HierarchicalInheritance.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay4\HierarchicalInheritance\obj\Debug\net8.0\HierarchicalInheritance.genruntimeconfig.cache
+C:\Users\stark\source\repos\WiproNGATraningDay4\HierarchicalInheritance\obj\Debug\net8.0\ref\HierarchicalInheritance.dll

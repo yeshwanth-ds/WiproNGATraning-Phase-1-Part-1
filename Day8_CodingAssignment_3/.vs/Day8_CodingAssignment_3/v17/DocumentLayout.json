@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stark\\source\\repos\\Day8_CodingAssignment_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE4DDE6-817B-48FA-A0C2-C309BCCB5919}|Day8_CodingAssignment_3\\Day8_CodingAssignment_3.csproj|c:\\users\\stark\\source\\repos\\day8_codingassignment_3\\day8_codingassignment_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE4DDE6-817B-48FA-A0C2-C309BCCB5919}|Day8_CodingAssignment_3\\Day8_CodingAssignment_3.csproj|solutionrelative:day8_codingassignment_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE4DDE6-817B-48FA-A0C2-C309BCCB5919}|Day8_CodingAssignment_3\\Day8_CodingAssignment_3.csproj|c:\\users\\stark\\source\\repos\\day8_codingassignment_3\\day8_codingassignment_3\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AE4DDE6-817B-48FA-A0C2-C309BCCB5919}|Day8_CodingAssignment_3\\Day8_CodingAssignment_3.csproj|solutionrelative:day8_codingassignment_3\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\stark\\source\\repos\\Day8_CodingAssignment_3\\Day8_CodingAssignment_3\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Day8_CodingAssignment_3\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\stark\\source\\repos\\Day8_CodingAssignment_3\\Day8_CodingAssignment_3\\wwwroot\\index.html",
+              "RelativeToolTip": "Day8_CodingAssignment_3\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-05T18:43:44.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stark\\source\\repos\\Day8_CodingAssignment_3\\Day8_CodingAssignment_3\\Program.cs",
+              "RelativeDocumentMoniker": "Day8_CodingAssignment_3\\Program.cs",
+              "ToolTip": "C:\\Users\\stark\\source\\repos\\Day8_CodingAssignment_3\\Day8_CodingAssignment_3\\Program.cs",
+              "RelativeToolTip": "Day8_CodingAssignment_3\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:04:54.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

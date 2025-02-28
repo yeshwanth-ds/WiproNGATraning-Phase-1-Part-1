@@ -1,0 +1,7 @@
+C:\Users\91709\Desktop\C#\LoggerSingleton\LoggerSingleton\bin\Debug\LoggerSingleton.exe.config
+C:\Users\91709\Desktop\C#\LoggerSingleton\LoggerSingleton\bin\Debug\LoggerSingleton.exe
+C:\Users\91709\Desktop\C#\LoggerSingleton\LoggerSingleton\bin\Debug\LoggerSingleton.pdb
+C:\Users\91709\Desktop\C#\LoggerSingleton\LoggerSingleton\obj\Debug\LoggerSingleton.csproj.AssemblyReference.cache
+C:\Users\91709\Desktop\C#\LoggerSingleton\LoggerSingleton\obj\Debug\LoggerSingleton.csproj.CoreCompileInputs.cache
+C:\Users\91709\Desktop\C#\LoggerSingleton\LoggerSingleton\obj\Debug\LoggerSingleton.exe
+C:\Users\91709\Desktop\C#\LoggerSingleton\LoggerSingleton\obj\Debug\LoggerSingleton.pdb

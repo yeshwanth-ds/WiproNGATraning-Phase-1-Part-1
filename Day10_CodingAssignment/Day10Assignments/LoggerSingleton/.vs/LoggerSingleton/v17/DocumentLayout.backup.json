@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91709\\Desktop\\C#\\LoggerSingleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C94CBFD-2A74-4AEE-B4C0-5AC2D5B61967}|LoggerSingleton\\LoggerSingleton.csproj|c:\\users\\91709\\desktop\\c#\\loggersingleton\\loggersingleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C94CBFD-2A74-4AEE-B4C0-5AC2D5B61967}|LoggerSingleton\\LoggerSingleton.csproj|solutionrelative:loggersingleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C94CBFD-2A74-4AEE-B4C0-5AC2D5B61967}|LoggerSingleton\\LoggerSingleton.csproj|c:\\users\\91709\\desktop\\c#\\loggersingleton\\loggersingleton\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C94CBFD-2A74-4AEE-B4C0-5AC2D5B61967}|LoggerSingleton\\LoggerSingleton.csproj|solutionrelative:loggersingleton\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Desktop\\C#\\LoggerSingleton\\LoggerSingleton\\Logger.cs",
+              "RelativeDocumentMoniker": "LoggerSingleton\\Logger.cs",
+              "ToolTip": "C:\\Users\\91709\\Desktop\\C#\\LoggerSingleton\\LoggerSingleton\\Logger.cs*",
+              "RelativeToolTip": "LoggerSingleton\\Logger.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:11:42.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Desktop\\C#\\LoggerSingleton\\LoggerSingleton\\Program.cs",
+              "RelativeDocumentMoniker": "LoggerSingleton\\Program.cs",
+              "ToolTip": "C:\\Users\\91709\\Desktop\\C#\\LoggerSingleton\\LoggerSingleton\\Program.cs*",
+              "RelativeToolTip": "LoggerSingleton\\Program.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:11:18.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

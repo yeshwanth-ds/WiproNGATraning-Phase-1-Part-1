@@ -1,0 +1,14 @@
+C:\Users\stark\source\repos\WiproNGATraningDay7\Reflection\bin\Debug\net8.0\Reflection.exe
+C:\Users\stark\source\repos\WiproNGATraningDay7\Reflection\bin\Debug\net8.0\Reflection.deps.json
+C:\Users\stark\source\repos\WiproNGATraningDay7\Reflection\bin\Debug\net8.0\Reflection.runtimeconfig.json
+C:\Users\stark\source\repos\WiproNGATraningDay7\Reflection\bin\Debug\net8.0\Reflection.dll
+C:\Users\stark\source\repos\WiproNGATraningDay7\Reflection\bin\Debug\net8.0\Reflection.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay7\Reflection\obj\Debug\net8.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stark\source\repos\WiproNGATraningDay7\Reflection\obj\Debug\net8.0\Reflection.AssemblyInfoInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay7\Reflection\obj\Debug\net8.0\Reflection.AssemblyInfo.cs
+C:\Users\stark\source\repos\WiproNGATraningDay7\Reflection\obj\Debug\net8.0\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay7\Reflection\obj\Debug\net8.0\Reflection.dll
+C:\Users\stark\source\repos\WiproNGATraningDay7\Reflection\obj\Debug\net8.0\refint\Reflection.dll
+C:\Users\stark\source\repos\WiproNGATraningDay7\Reflection\obj\Debug\net8.0\Reflection.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay7\Reflection\obj\Debug\net8.0\Reflection.genruntimeconfig.cache
+C:\Users\stark\source\repos\WiproNGATraningDay7\Reflection\obj\Debug\net8.0\ref\Reflection.dll

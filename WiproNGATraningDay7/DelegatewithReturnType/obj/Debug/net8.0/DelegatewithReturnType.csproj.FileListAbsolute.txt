@@ -1,0 +1,14 @@
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegatewithReturnType\bin\Debug\net8.0\DelegatewithReturnType.exe
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegatewithReturnType\bin\Debug\net8.0\DelegatewithReturnType.deps.json
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegatewithReturnType\bin\Debug\net8.0\DelegatewithReturnType.runtimeconfig.json
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegatewithReturnType\bin\Debug\net8.0\DelegatewithReturnType.dll
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegatewithReturnType\bin\Debug\net8.0\DelegatewithReturnType.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegatewithReturnType\obj\Debug\net8.0\DelegatewithReturnType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegatewithReturnType\obj\Debug\net8.0\DelegatewithReturnType.AssemblyInfoInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegatewithReturnType\obj\Debug\net8.0\DelegatewithReturnType.AssemblyInfo.cs
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegatewithReturnType\obj\Debug\net8.0\DelegatewithReturnType.csproj.CoreCompileInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegatewithReturnType\obj\Debug\net8.0\DelegatewithReturnType.dll
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegatewithReturnType\obj\Debug\net8.0\refint\DelegatewithReturnType.dll
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegatewithReturnType\obj\Debug\net8.0\DelegatewithReturnType.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegatewithReturnType\obj\Debug\net8.0\DelegatewithReturnType.genruntimeconfig.cache
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegatewithReturnType\obj\Debug\net8.0\ref\DelegatewithReturnType.dll

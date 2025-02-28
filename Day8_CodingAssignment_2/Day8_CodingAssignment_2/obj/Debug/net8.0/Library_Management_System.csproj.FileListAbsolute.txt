@@ -1,0 +1,14 @@
+C:\Users\stark\source\repos\Day8_CodingAssignment_2\Day8_CodingAssignment_2\bin\Debug\net8.0\Library_Management_System.exe
+C:\Users\stark\source\repos\Day8_CodingAssignment_2\Day8_CodingAssignment_2\bin\Debug\net8.0\Library_Management_System.deps.json
+C:\Users\stark\source\repos\Day8_CodingAssignment_2\Day8_CodingAssignment_2\bin\Debug\net8.0\Library_Management_System.runtimeconfig.json
+C:\Users\stark\source\repos\Day8_CodingAssignment_2\Day8_CodingAssignment_2\bin\Debug\net8.0\Library_Management_System.dll
+C:\Users\stark\source\repos\Day8_CodingAssignment_2\Day8_CodingAssignment_2\bin\Debug\net8.0\Library_Management_System.pdb
+C:\Users\stark\source\repos\Day8_CodingAssignment_2\Day8_CodingAssignment_2\obj\Debug\net8.0\Library_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stark\source\repos\Day8_CodingAssignment_2\Day8_CodingAssignment_2\obj\Debug\net8.0\Library_Management_System.AssemblyInfoInputs.cache
+C:\Users\stark\source\repos\Day8_CodingAssignment_2\Day8_CodingAssignment_2\obj\Debug\net8.0\Library_Management_System.AssemblyInfo.cs
+C:\Users\stark\source\repos\Day8_CodingAssignment_2\Day8_CodingAssignment_2\obj\Debug\net8.0\Library_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\stark\source\repos\Day8_CodingAssignment_2\Day8_CodingAssignment_2\obj\Debug\net8.0\Library_Management_System.dll
+C:\Users\stark\source\repos\Day8_CodingAssignment_2\Day8_CodingAssignment_2\obj\Debug\net8.0\refint\Library_Management_System.dll
+C:\Users\stark\source\repos\Day8_CodingAssignment_2\Day8_CodingAssignment_2\obj\Debug\net8.0\Library_Management_System.pdb
+C:\Users\stark\source\repos\Day8_CodingAssignment_2\Day8_CodingAssignment_2\obj\Debug\net8.0\Library_Management_System.genruntimeconfig.cache
+C:\Users\stark\source\repos\Day8_CodingAssignment_2\Day8_CodingAssignment_2\obj\Debug\net8.0\ref\Library_Management_System.dll

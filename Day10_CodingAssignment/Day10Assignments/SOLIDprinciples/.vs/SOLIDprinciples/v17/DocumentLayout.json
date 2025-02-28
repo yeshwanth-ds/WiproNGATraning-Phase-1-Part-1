@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91709\\Desktop\\C#\\SOLIDprinciples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6061473D-7107-49A4-963D-31205CEB416B}|SOLIDprinciples\\SOLIDprinciples.csproj|c:\\users\\91709\\desktop\\c#\\solidprinciples\\solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6061473D-7107-49A4-963D-31205CEB416B}|SOLIDprinciples\\SOLIDprinciples.csproj|solutionrelative:solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6061473D-7107-49A4-963D-31205CEB416B}|SOLIDprinciples\\SOLIDprinciples.csproj|c:\\users\\91709\\desktop\\c#\\solidprinciples\\solidprinciples\\uploadreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6061473D-7107-49A4-963D-31205CEB416B}|SOLIDprinciples\\SOLIDprinciples.csproj|solutionrelative:solidprinciples\\uploadreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6061473D-7107-49A4-963D-31205CEB416B}|SOLIDprinciples\\SOLIDprinciples.csproj|c:\\users\\91709\\desktop\\c#\\solidprinciples\\solidprinciples\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6061473D-7107-49A4-963D-31205CEB416B}|SOLIDprinciples\\SOLIDprinciples.csproj|solutionrelative:solidprinciples\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6061473D-7107-49A4-963D-31205CEB416B}|SOLIDprinciples\\SOLIDprinciples.csproj|c:\\users\\91709\\desktop\\c#\\solidprinciples\\solidprinciples\\idownloadreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6061473D-7107-49A4-963D-31205CEB416B}|SOLIDprinciples\\SOLIDprinciples.csproj|solutionrelative:solidprinciples\\idownloadreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6061473D-7107-49A4-963D-31205CEB416B}|SOLIDprinciples\\SOLIDprinciples.csproj|c:\\users\\91709\\desktop\\c#\\solidprinciples\\solidprinciples\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6061473D-7107-49A4-963D-31205CEB416B}|SOLIDprinciples\\SOLIDprinciples.csproj|solutionrelative:solidprinciples\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6061473D-7107-49A4-963D-31205CEB416B}|SOLIDprinciples\\SOLIDprinciples.csproj|c:\\users\\91709\\desktop\\c#\\solidprinciples\\solidprinciples\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6061473D-7107-49A4-963D-31205CEB416B}|SOLIDprinciples\\SOLIDprinciples.csproj|solutionrelative:solidprinciples\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6061473D-7107-49A4-963D-31205CEB416B}|SOLIDprinciples\\SOLIDprinciples.csproj|c:\\users\\91709\\desktop\\c#\\solidprinciples\\solidprinciples\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6061473D-7107-49A4-963D-31205CEB416B}|SOLIDprinciples\\SOLIDprinciples.csproj|solutionrelative:solidprinciples\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportSaver.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Desktop\\C#\\SOLIDprinciples\\SOLIDprinciples\\ReportSaver.cs",
+              "RelativeDocumentMoniker": "SOLIDprinciples\\ReportSaver.cs",
+              "ToolTip": "C:\\Users\\91709\\Desktop\\C#\\SOLIDprinciples\\SOLIDprinciples\\ReportSaver.cs",
+              "RelativeToolTip": "SOLIDprinciples\\ReportSaver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:15:07.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadReport.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Desktop\\C#\\SOLIDprinciples\\SOLIDprinciples\\UploadReport.cs",
+              "RelativeDocumentMoniker": "SOLIDprinciples\\UploadReport.cs",
+              "ToolTip": "C:\\Users\\91709\\Desktop\\C#\\SOLIDprinciples\\SOLIDprinciples\\UploadReport.cs",
+              "RelativeToolTip": "SOLIDprinciples\\UploadReport.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:43:09.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDownloadReport.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Desktop\\C#\\SOLIDprinciples\\SOLIDprinciples\\IDownloadReport.cs",
+              "RelativeDocumentMoniker": "SOLIDprinciples\\IDownloadReport.cs",
+              "ToolTip": "C:\\Users\\91709\\Desktop\\C#\\SOLIDprinciples\\SOLIDprinciples\\IDownloadReport.cs",
+              "RelativeToolTip": "SOLIDprinciples\\IDownloadReport.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:59:01.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReportFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Desktop\\C#\\SOLIDprinciples\\SOLIDprinciples\\IReportFormatter.cs",
+              "RelativeDocumentMoniker": "SOLIDprinciples\\IReportFormatter.cs",
+              "ToolTip": "C:\\Users\\91709\\Desktop\\C#\\SOLIDprinciples\\SOLIDprinciples\\IReportFormatter.cs",
+              "RelativeToolTip": "SOLIDprinciples\\IReportFormatter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:42:05.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Desktop\\C#\\SOLIDprinciples\\SOLIDprinciples\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "SOLIDprinciples\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\91709\\Desktop\\C#\\SOLIDprinciples\\SOLIDprinciples\\ReportGenerator.cs",
+              "RelativeToolTip": "SOLIDprinciples\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:14:00.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Desktop\\C#\\SOLIDprinciples\\SOLIDprinciples\\ReportManager.cs",
+              "RelativeDocumentMoniker": "SOLIDprinciples\\ReportManager.cs",
+              "ToolTip": "C:\\Users\\91709\\Desktop\\C#\\SOLIDprinciples\\SOLIDprinciples\\ReportManager.cs",
+              "RelativeToolTip": "SOLIDprinciples\\ReportManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvw4AAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:12:26.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Desktop\\C#\\SOLIDprinciples\\SOLIDprinciples\\Program.cs",
+              "RelativeDocumentMoniker": "SOLIDprinciples\\Program.cs",
+              "ToolTip": "C:\\Users\\91709\\Desktop\\C#\\SOLIDprinciples\\SOLIDprinciples\\Program.cs",
+              "RelativeToolTip": "SOLIDprinciples\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:02:35.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

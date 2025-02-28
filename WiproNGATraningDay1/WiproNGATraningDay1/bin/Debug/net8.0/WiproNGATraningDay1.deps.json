@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WiproNGATraningDay1/1.0.0": {
+        "runtime": {
+          "WiproNGATraningDay1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WiproNGATraningDay1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

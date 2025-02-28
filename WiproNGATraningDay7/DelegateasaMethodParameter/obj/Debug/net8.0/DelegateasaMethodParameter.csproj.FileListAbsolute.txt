@@ -1,0 +1,14 @@
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegateasaMethodParameter\bin\Debug\net8.0\DelegateasaMethodParameter.exe
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegateasaMethodParameter\bin\Debug\net8.0\DelegateasaMethodParameter.deps.json
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegateasaMethodParameter\bin\Debug\net8.0\DelegateasaMethodParameter.runtimeconfig.json
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegateasaMethodParameter\bin\Debug\net8.0\DelegateasaMethodParameter.dll
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegateasaMethodParameter\bin\Debug\net8.0\DelegateasaMethodParameter.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegateasaMethodParameter\obj\Debug\net8.0\DelegateasaMethodParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegateasaMethodParameter\obj\Debug\net8.0\DelegateasaMethodParameter.AssemblyInfoInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegateasaMethodParameter\obj\Debug\net8.0\DelegateasaMethodParameter.AssemblyInfo.cs
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegateasaMethodParameter\obj\Debug\net8.0\DelegateasaMethodParameter.csproj.CoreCompileInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegateasaMethodParameter\obj\Debug\net8.0\DelegateasaMethodParameter.dll
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegateasaMethodParameter\obj\Debug\net8.0\refint\DelegateasaMethodParameter.dll
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegateasaMethodParameter\obj\Debug\net8.0\DelegateasaMethodParameter.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegateasaMethodParameter\obj\Debug\net8.0\DelegateasaMethodParameter.genruntimeconfig.cache
+C:\Users\stark\source\repos\WiproNGATraningDay7\DelegateasaMethodParameter\obj\Debug\net8.0\ref\DelegateasaMethodParameter.dll

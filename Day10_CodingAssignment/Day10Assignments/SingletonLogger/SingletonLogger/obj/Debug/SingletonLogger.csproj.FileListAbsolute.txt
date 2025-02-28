@@ -1,0 +1,2 @@
+C:\Users\91709\Desktop\C#\SingletonLogger\SingletonLogger\obj\Debug\SingletonLogger.csproj.AssemblyReference.cache
+C:\Users\91709\Desktop\C#\SingletonLogger\SingletonLogger\obj\Debug\SingletonLogger.csproj.CoreCompileInputs.cache

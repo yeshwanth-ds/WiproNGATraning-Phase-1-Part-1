@@ -1,0 +1,7 @@
+C:\Users\91709\Desktop\C#\SOLIDprinciples\SOLIDprinciples\bin\Debug\SOLIDprinciples.exe.config
+C:\Users\91709\Desktop\C#\SOLIDprinciples\SOLIDprinciples\bin\Debug\SOLIDprinciples.exe
+C:\Users\91709\Desktop\C#\SOLIDprinciples\SOLIDprinciples\bin\Debug\SOLIDprinciples.pdb
+C:\Users\91709\Desktop\C#\SOLIDprinciples\SOLIDprinciples\obj\Debug\SOLIDprinciples.csproj.AssemblyReference.cache
+C:\Users\91709\Desktop\C#\SOLIDprinciples\SOLIDprinciples\obj\Debug\SOLIDprinciples.csproj.CoreCompileInputs.cache
+C:\Users\91709\Desktop\C#\SOLIDprinciples\SOLIDprinciples\obj\Debug\SOLIDprinciples.exe
+C:\Users\91709\Desktop\C#\SOLIDprinciples\SOLIDprinciples\obj\Debug\SOLIDprinciples.pdb

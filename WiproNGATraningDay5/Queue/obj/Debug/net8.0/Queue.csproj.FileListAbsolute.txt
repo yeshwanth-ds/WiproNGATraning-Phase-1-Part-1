@@ -1,0 +1,14 @@
+C:\Users\stark\source\repos\WiproNGATraningDay5\Queue\bin\Debug\net8.0\Queue.exe
+C:\Users\stark\source\repos\WiproNGATraningDay5\Queue\bin\Debug\net8.0\Queue.deps.json
+C:\Users\stark\source\repos\WiproNGATraningDay5\Queue\bin\Debug\net8.0\Queue.runtimeconfig.json
+C:\Users\stark\source\repos\WiproNGATraningDay5\Queue\bin\Debug\net8.0\Queue.dll
+C:\Users\stark\source\repos\WiproNGATraningDay5\Queue\bin\Debug\net8.0\Queue.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay5\Queue\obj\Debug\net8.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stark\source\repos\WiproNGATraningDay5\Queue\obj\Debug\net8.0\Queue.AssemblyInfoInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay5\Queue\obj\Debug\net8.0\Queue.AssemblyInfo.cs
+C:\Users\stark\source\repos\WiproNGATraningDay5\Queue\obj\Debug\net8.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay5\Queue\obj\Debug\net8.0\Queue.dll
+C:\Users\stark\source\repos\WiproNGATraningDay5\Queue\obj\Debug\net8.0\refint\Queue.dll
+C:\Users\stark\source\repos\WiproNGATraningDay5\Queue\obj\Debug\net8.0\Queue.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay5\Queue\obj\Debug\net8.0\Queue.genruntimeconfig.cache
+C:\Users\stark\source\repos\WiproNGATraningDay5\Queue\obj\Debug\net8.0\ref\Queue.dll

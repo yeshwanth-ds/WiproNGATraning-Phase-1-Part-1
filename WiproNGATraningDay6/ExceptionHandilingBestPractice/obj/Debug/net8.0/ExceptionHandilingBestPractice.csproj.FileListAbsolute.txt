@@ -1,0 +1,14 @@
+C:\Users\stark\source\repos\WiproNGATraningDay6\ExceptionHandilingBestPractice\bin\Debug\net8.0\ExceptionHandilingBestPractice.exe
+C:\Users\stark\source\repos\WiproNGATraningDay6\ExceptionHandilingBestPractice\bin\Debug\net8.0\ExceptionHandilingBestPractice.deps.json
+C:\Users\stark\source\repos\WiproNGATraningDay6\ExceptionHandilingBestPractice\bin\Debug\net8.0\ExceptionHandilingBestPractice.runtimeconfig.json
+C:\Users\stark\source\repos\WiproNGATraningDay6\ExceptionHandilingBestPractice\bin\Debug\net8.0\ExceptionHandilingBestPractice.dll
+C:\Users\stark\source\repos\WiproNGATraningDay6\ExceptionHandilingBestPractice\bin\Debug\net8.0\ExceptionHandilingBestPractice.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay6\ExceptionHandilingBestPractice\obj\Debug\net8.0\ExceptionHandilingBestPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stark\source\repos\WiproNGATraningDay6\ExceptionHandilingBestPractice\obj\Debug\net8.0\ExceptionHandilingBestPractice.AssemblyInfoInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay6\ExceptionHandilingBestPractice\obj\Debug\net8.0\ExceptionHandilingBestPractice.AssemblyInfo.cs
+C:\Users\stark\source\repos\WiproNGATraningDay6\ExceptionHandilingBestPractice\obj\Debug\net8.0\ExceptionHandilingBestPractice.csproj.CoreCompileInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay6\ExceptionHandilingBestPractice\obj\Debug\net8.0\ExceptionHandilingBestPractice.dll
+C:\Users\stark\source\repos\WiproNGATraningDay6\ExceptionHandilingBestPractice\obj\Debug\net8.0\refint\ExceptionHandilingBestPractice.dll
+C:\Users\stark\source\repos\WiproNGATraningDay6\ExceptionHandilingBestPractice\obj\Debug\net8.0\ExceptionHandilingBestPractice.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay6\ExceptionHandilingBestPractice\obj\Debug\net8.0\ExceptionHandilingBestPractice.genruntimeconfig.cache
+C:\Users\stark\source\repos\WiproNGATraningDay6\ExceptionHandilingBestPractice\obj\Debug\net8.0\ref\ExceptionHandilingBestPractice.dll

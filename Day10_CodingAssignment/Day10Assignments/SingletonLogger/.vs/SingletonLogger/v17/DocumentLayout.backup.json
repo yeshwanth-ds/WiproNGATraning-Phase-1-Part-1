@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91709\\Desktop\\C#\\SingletonLogger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA419C8F-300B-4E30-A78D-8242E299ECFE}|SingletonLogger\\SingletonLogger.csproj|c:\\users\\91709\\desktop\\c#\\singletonlogger\\singletonlogger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA419C8F-300B-4E30-A78D-8242E299ECFE}|SingletonLogger\\SingletonLogger.csproj|solutionrelative:singletonlogger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\91709\\Desktop\\C#\\SingletonLogger\\SingletonLogger\\Logger.cs",
+              "RelativeDocumentMoniker": "SingletonLogger\\Logger.cs",
+              "ToolTip": "C:\\Users\\91709\\Desktop\\C#\\SingletonLogger\\SingletonLogger\\Logger.cs*",
+              "RelativeToolTip": "SingletonLogger\\Logger.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:31:09.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

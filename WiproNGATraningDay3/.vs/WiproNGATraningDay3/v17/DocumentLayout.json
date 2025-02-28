@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stark\\source\\repos\\WiproNGATraningDay3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A464A0DA-A13C-463C-979C-06B678FCE390}|MethodOverRiding\\MethodOverRiding.csproj|c:\\users\\stark\\source\\repos\\wiprongatraningday3\\methodoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A464A0DA-A13C-463C-979C-06B678FCE390}|MethodOverRiding\\MethodOverRiding.csproj|solutionrelative:methodoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A272AB-8436-4D09-9F9C-BAFDBFB789B3}|MethodOverLoading\\MethodOverLoading.csproj|c:\\users\\stark\\source\\repos\\wiprongatraningday3\\methodoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A272AB-8436-4D09-9F9C-BAFDBFB789B3}|MethodOverLoading\\MethodOverLoading.csproj|solutionrelative:methodoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C925D3EF-1CE5-47F9-88F3-BD6CF8F87232}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\stark\\source\\repos\\wiprongatraningday3\\accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C925D3EF-1CE5-47F9-88F3-BD6CF8F87232}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85FFBE0-9D27-442B-A145-3AF734603609}|Generics\\Generics.csproj|c:\\users\\stark\\source\\repos\\wiprongatraningday3\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85FFBE0-9D27-442B-A145-3AF734603609}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C0B176-A802-479C-A684-5F5EE711BE83}|WiproNGATraningDay3\\Methods.csproj|c:\\users\\stark\\source\\repos\\wiprongatraningday3\\wiprongatraningday3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C0B176-A802-479C-A684-5F5EE711BE83}|WiproNGATraningDay3\\Methods.csproj|solutionrelative:wiprongatraningday3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stark\\source\\repos\\WiproNGATraningDay3\\MethodOverRiding\\Program.cs",
+              "RelativeDocumentMoniker": "MethodOverRiding\\Program.cs",
+              "ToolTip": "C:\\Users\\stark\\source\\repos\\WiproNGATraningDay3\\MethodOverRiding\\Program.cs",
+              "RelativeToolTip": "MethodOverRiding\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:52:15.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stark\\source\\repos\\WiproNGATraningDay3\\MethodOverLoading\\Program.cs",
+              "RelativeDocumentMoniker": "MethodOverLoading\\Program.cs",
+              "ToolTip": "C:\\Users\\stark\\source\\repos\\WiproNGATraningDay3\\MethodOverLoading\\Program.cs",
+              "RelativeToolTip": "MethodOverLoading\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:50:29.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stark\\source\\repos\\WiproNGATraningDay3\\AccessModifiers\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiers\\Program.cs",
+              "ToolTip": "C:\\Users\\stark\\source\\repos\\WiproNGATraningDay3\\AccessModifiers\\Program.cs",
+              "RelativeToolTip": "AccessModifiers\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADwv0cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:48:39.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stark\\source\\repos\\WiproNGATraningDay3\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\stark\\source\\repos\\WiproNGATraningDay3\\Generics\\Program.cs",
+              "RelativeToolTip": "Generics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:45:51.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stark\\source\\repos\\WiproNGATraningDay3\\WiproNGATraningDay3\\Program.cs",
+              "RelativeDocumentMoniker": "WiproNGATraningDay3\\Program.cs",
+              "ToolTip": "C:\\Users\\stark\\source\\repos\\WiproNGATraningDay3\\WiproNGATraningDay3\\Program.cs",
+              "RelativeToolTip": "WiproNGATraningDay3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:43:58.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

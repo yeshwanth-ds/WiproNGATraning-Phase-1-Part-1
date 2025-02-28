@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stark\\source\\repos\\Day8_CodingAssignment_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAB1C9A-067E-4DCB-A7E4-2867D7DDF48F}|TestProject1\\TestProject1.csproj|c:\\users\\stark\\source\\repos\\day8_codingassignment_2\\testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAB1C9A-067E-4DCB-A7E4-2867D7DDF48F}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030E15C5-4033-4416-8E76-0D469683ABA3}|Day8_CodingAssignment_2\\Library_Management_System.csproj|c:\\users\\stark\\source\\repos\\day8_codingassignment_2\\day8_codingassignment_2\\library_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030E15C5-4033-4416-8E76-0D469683ABA3}|Day8_CodingAssignment_2\\Library_Management_System.csproj|solutionrelative:day8_codingassignment_2\\library_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAB1C9A-067E-4DCB-A7E4-2867D7DDF48F}|TestProject1\\TestProject1.csproj|c:\\users\\stark\\source\\repos\\day8_codingassignment_2\\testproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAB1C9A-067E-4DCB-A7E4-2867D7DDF48F}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030E15C5-4033-4416-8E76-0D469683ABA3}|Day8_CodingAssignment_2\\Library_Management_System.csproj|c:\\users\\stark\\source\\repos\\day8_codingassignment_2\\day8_codingassignment_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030E15C5-4033-4416-8E76-0D469683ABA3}|Day8_CodingAssignment_2\\Library_Management_System.csproj|solutionrelative:day8_codingassignment_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\stark\\source\\repos\\Day8_CodingAssignment_2\\TestProject1\\Test1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test1.cs",
+              "ToolTip": "C:\\Users\\stark\\source\\repos\\Day8_CodingAssignment_2\\TestProject1\\Test1.cs",
+              "RelativeToolTip": "TestProject1\\Test1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:14:03.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\stark\\source\\repos\\Day8_CodingAssignment_2\\TestProject1\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "TestProject1\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\stark\\source\\repos\\Day8_CodingAssignment_2\\TestProject1\\MSTestSettings.cs",
+              "RelativeToolTip": "TestProject1\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:13:50.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library_Management.cs",
+              "DocumentMoniker": "C:\\Users\\stark\\source\\repos\\Day8_CodingAssignment_2\\Day8_CodingAssignment_2\\Library_Management.cs",
+              "RelativeDocumentMoniker": "Day8_CodingAssignment_2\\Library_Management.cs",
+              "ToolTip": "C:\\Users\\stark\\source\\repos\\Day8_CodingAssignment_2\\Day8_CodingAssignment_2\\Library_Management.cs",
+              "RelativeToolTip": "Day8_CodingAssignment_2\\Library_Management.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:09:39.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stark\\source\\repos\\Day8_CodingAssignment_2\\Day8_CodingAssignment_2\\Program.cs",
+              "RelativeDocumentMoniker": "Day8_CodingAssignment_2\\Program.cs",
+              "ToolTip": "C:\\Users\\stark\\source\\repos\\Day8_CodingAssignment_2\\Day8_CodingAssignment_2\\Program.cs",
+              "RelativeToolTip": "Day8_CodingAssignment_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:08:36.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\stark\source\repos\WiproNGATraningDay3\MethodOverRiding\bin\Debug\net8.0\MethodOverRiding.exe
+C:\Users\stark\source\repos\WiproNGATraningDay3\MethodOverRiding\bin\Debug\net8.0\MethodOverRiding.deps.json
+C:\Users\stark\source\repos\WiproNGATraningDay3\MethodOverRiding\bin\Debug\net8.0\MethodOverRiding.runtimeconfig.json
+C:\Users\stark\source\repos\WiproNGATraningDay3\MethodOverRiding\bin\Debug\net8.0\MethodOverRiding.dll
+C:\Users\stark\source\repos\WiproNGATraningDay3\MethodOverRiding\bin\Debug\net8.0\MethodOverRiding.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay3\MethodOverRiding\obj\Debug\net8.0\MethodOverRiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stark\source\repos\WiproNGATraningDay3\MethodOverRiding\obj\Debug\net8.0\MethodOverRiding.AssemblyInfoInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay3\MethodOverRiding\obj\Debug\net8.0\MethodOverRiding.AssemblyInfo.cs
+C:\Users\stark\source\repos\WiproNGATraningDay3\MethodOverRiding\obj\Debug\net8.0\MethodOverRiding.csproj.CoreCompileInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay3\MethodOverRiding\obj\Debug\net8.0\MethodOverRiding.dll
+C:\Users\stark\source\repos\WiproNGATraningDay3\MethodOverRiding\obj\Debug\net8.0\refint\MethodOverRiding.dll
+C:\Users\stark\source\repos\WiproNGATraningDay3\MethodOverRiding\obj\Debug\net8.0\MethodOverRiding.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay3\MethodOverRiding\obj\Debug\net8.0\MethodOverRiding.genruntimeconfig.cache
+C:\Users\stark\source\repos\WiproNGATraningDay3\MethodOverRiding\obj\Debug\net8.0\ref\MethodOverRiding.dll

@@ -1,0 +1,14 @@
+C:\Users\stark\source\repos\WiproNGATraningDay7\Events\bin\Release\net8.0\Events.exe
+C:\Users\stark\source\repos\WiproNGATraningDay7\Events\bin\Release\net8.0\Events.deps.json
+C:\Users\stark\source\repos\WiproNGATraningDay7\Events\bin\Release\net8.0\Events.runtimeconfig.json
+C:\Users\stark\source\repos\WiproNGATraningDay7\Events\bin\Release\net8.0\Events.dll
+C:\Users\stark\source\repos\WiproNGATraningDay7\Events\bin\Release\net8.0\Events.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay7\Events\obj\Release\net8.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stark\source\repos\WiproNGATraningDay7\Events\obj\Release\net8.0\Events.AssemblyInfoInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay7\Events\obj\Release\net8.0\Events.AssemblyInfo.cs
+C:\Users\stark\source\repos\WiproNGATraningDay7\Events\obj\Release\net8.0\Events.csproj.CoreCompileInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay7\Events\obj\Release\net8.0\Events.dll
+C:\Users\stark\source\repos\WiproNGATraningDay7\Events\obj\Release\net8.0\refint\Events.dll
+C:\Users\stark\source\repos\WiproNGATraningDay7\Events\obj\Release\net8.0\Events.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay7\Events\obj\Release\net8.0\Events.genruntimeconfig.cache
+C:\Users\stark\source\repos\WiproNGATraningDay7\Events\obj\Release\net8.0\ref\Events.dll

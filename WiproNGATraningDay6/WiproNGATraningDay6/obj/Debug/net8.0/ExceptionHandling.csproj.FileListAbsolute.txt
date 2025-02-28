@@ -1,0 +1,14 @@
+C:\Users\stark\source\repos\WiproNGATraningDay6\WiproNGATraningDay6\bin\Debug\net8.0\ExceptionHandling.exe
+C:\Users\stark\source\repos\WiproNGATraningDay6\WiproNGATraningDay6\bin\Debug\net8.0\ExceptionHandling.deps.json
+C:\Users\stark\source\repos\WiproNGATraningDay6\WiproNGATraningDay6\bin\Debug\net8.0\ExceptionHandling.runtimeconfig.json
+C:\Users\stark\source\repos\WiproNGATraningDay6\WiproNGATraningDay6\bin\Debug\net8.0\ExceptionHandling.dll
+C:\Users\stark\source\repos\WiproNGATraningDay6\WiproNGATraningDay6\bin\Debug\net8.0\ExceptionHandling.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay6\WiproNGATraningDay6\obj\Debug\net8.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stark\source\repos\WiproNGATraningDay6\WiproNGATraningDay6\obj\Debug\net8.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay6\WiproNGATraningDay6\obj\Debug\net8.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\stark\source\repos\WiproNGATraningDay6\WiproNGATraningDay6\obj\Debug\net8.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay6\WiproNGATraningDay6\obj\Debug\net8.0\ExceptionHandling.dll
+C:\Users\stark\source\repos\WiproNGATraningDay6\WiproNGATraningDay6\obj\Debug\net8.0\refint\ExceptionHandling.dll
+C:\Users\stark\source\repos\WiproNGATraningDay6\WiproNGATraningDay6\obj\Debug\net8.0\ExceptionHandling.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay6\WiproNGATraningDay6\obj\Debug\net8.0\ExceptionHandling.genruntimeconfig.cache
+C:\Users\stark\source\repos\WiproNGATraningDay6\WiproNGATraningDay6\obj\Debug\net8.0\ref\ExceptionHandling.dll

@@ -1,0 +1,14 @@
+C:\Users\stark\source\repos\WiproNGATraningDay4\WiproNGATraningDay4\bin\Debug\net8.0\WiproNGATraningDay4.exe
+C:\Users\stark\source\repos\WiproNGATraningDay4\WiproNGATraningDay4\bin\Debug\net8.0\WiproNGATraningDay4.deps.json
+C:\Users\stark\source\repos\WiproNGATraningDay4\WiproNGATraningDay4\bin\Debug\net8.0\WiproNGATraningDay4.runtimeconfig.json
+C:\Users\stark\source\repos\WiproNGATraningDay4\WiproNGATraningDay4\bin\Debug\net8.0\WiproNGATraningDay4.dll
+C:\Users\stark\source\repos\WiproNGATraningDay4\WiproNGATraningDay4\bin\Debug\net8.0\WiproNGATraningDay4.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay4\WiproNGATraningDay4\obj\Debug\net8.0\WiproNGATraningDay4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stark\source\repos\WiproNGATraningDay4\WiproNGATraningDay4\obj\Debug\net8.0\WiproNGATraningDay4.AssemblyInfoInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay4\WiproNGATraningDay4\obj\Debug\net8.0\WiproNGATraningDay4.AssemblyInfo.cs
+C:\Users\stark\source\repos\WiproNGATraningDay4\WiproNGATraningDay4\obj\Debug\net8.0\WiproNGATraningDay4.csproj.CoreCompileInputs.cache
+C:\Users\stark\source\repos\WiproNGATraningDay4\WiproNGATraningDay4\obj\Debug\net8.0\WiproNGATraningDay4.dll
+C:\Users\stark\source\repos\WiproNGATraningDay4\WiproNGATraningDay4\obj\Debug\net8.0\refint\WiproNGATraningDay4.dll
+C:\Users\stark\source\repos\WiproNGATraningDay4\WiproNGATraningDay4\obj\Debug\net8.0\WiproNGATraningDay4.pdb
+C:\Users\stark\source\repos\WiproNGATraningDay4\WiproNGATraningDay4\obj\Debug\net8.0\WiproNGATraningDay4.genruntimeconfig.cache
+C:\Users\stark\source\repos\WiproNGATraningDay4\WiproNGATraningDay4\obj\Debug\net8.0\ref\WiproNGATraningDay4.dll

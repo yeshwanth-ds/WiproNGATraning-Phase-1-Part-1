@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Day8_CodingAssignment_4(RazorPages).props" />
+</Project>
